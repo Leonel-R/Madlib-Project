@@ -10,17 +10,19 @@ Exercise in string concatenation where user will fill in certain adjectives or v
 
 **Guess the Number!**
 
-Fun mini game where user will guess a number between 1-10 with useful hints. After first game is completed, a second game will commence where the computer will guess your number between 1-10
+Fun mini game where user will guess a number between 1-10 with useful hints. After first game is completed, a second game will commence where the computer will guess your number between 1-10.
 
 **Rock, Paper, Scissor**
 
 A timeless game where you will be pitted against a computer to see whose choice of rock, paper, or scissors previals.
 
 **Getting Started**
-Prerequisites
+
+**Prerequisites**
 
 To run these projects, you will need to have Python 3 installed on your computer. You can download Python from the official website: https://www.python.org/downloads/
-Installing
+
+**Installing**
 
 To install the projects, simply clone the repository to your local machine:
 
