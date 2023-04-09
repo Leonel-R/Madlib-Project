@@ -1,6 +1,6 @@
 **Python-Projects**
 
-This is a collection of 3 projects written in Python. They were created as learning exercises for an entry-level programmer in Python.
+This is a collection of 3 projects written in Python. They were created as learning exercises as a beginner level programmer in Python.
 
 **Projects**
 
