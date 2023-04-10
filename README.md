@@ -14,7 +14,7 @@ Fun mini game where user will guess a number between 1-10 with useful hints. Aft
 
 ### **Rock, Paper, Scissor**
 
-A timeless game where you will be pitted against a computer to see whose choice of rock, paper, or scissors previals.
+A timeless game where you will be pitted against a computer to see whose choice of rock, paper, or scissors prevails.
 
 ## **Getting Started**
 
