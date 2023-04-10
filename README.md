@@ -10,7 +10,7 @@ Exercise in string concatenation where user will fill in certain adjectives or v
 
 ### **Guess the Number!**
 
-Fun mini game where user will guess a number between 1-10 with useful hints. After first game is completed, a second game will commence where the computer will guess your number between 1-10.
+Fun mini game where user will guess a number between 1-10 with useful hints. After the first game is completed, a second game will commence where the computer will guess your number between 1-10.
 
 ### **Rock, Paper, Scissor**
 
