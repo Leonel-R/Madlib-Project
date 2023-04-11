@@ -16,6 +16,10 @@ Fun mini game where user will guess a number between 1-10 with useful hints. Aft
 
 A timeless game where you will be pitted against a computer to see whose choice of rock, paper, or scissors prevails.
 
+### **Hangman**
+
+The classic game of hangman coded in python where you will guess a random word (randomly choosen from of list of over 2,000 words). Be careful though, you only have 6 lives.
+
 ## **Getting Started**
 
 ### **Prerequisites**
