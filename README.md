@@ -1,12 +1,8 @@
-# **Python Projects**
+# **Python Games**
 
 This is a collection of 3 projects written in Python. They were created as learning exercises as a entry level programmer in Python.
 
 ## **Projects**
-
-### **Madlib**
-
-Exercise in string concatenation where user will fill in certain adjectives or verbs to complete a sentence.
 
 ### **Guess the Number!**
 
